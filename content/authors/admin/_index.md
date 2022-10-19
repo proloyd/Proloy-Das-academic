@@ -15,7 +15,7 @@ role: Anesthesia Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Massachussets General Hospital
-    url: [https://www.massgeneral.org/](https://www.massgeneral.org/)
+    url: https://www.massgeneral.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational neuroscience, neural signal processing and machine learning.
