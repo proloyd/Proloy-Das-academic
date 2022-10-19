@@ -48,9 +48,9 @@ url_pdf: ''
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
-<!-- url_project: '' -->
-<!-- url_slides: '' -->
-<!-- url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes' -->
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 <!-- url_video: 'https://youtube.com' -->
 
 # Featured image
@@ -58,8 +58,8 @@ url_poster: ''
 <!-- image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
-  preview_only: false
- -->
+  preview_only: false -->
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
