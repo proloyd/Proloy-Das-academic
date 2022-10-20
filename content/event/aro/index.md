@@ -60,7 +60,7 @@ url_video: ''
 #   - example
 ---
 
-{{% callout note %}}
+{{% callout note<!--  %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -71,3 +71,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ -->
