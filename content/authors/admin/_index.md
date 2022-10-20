@@ -76,9 +76,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Proloy Das is a research fellow at the Department of Anesthesia, Critical Care and Pain Medince, Massachusetts General Hospital. His broad research interest lies in computational modeling and analysis of neural signals aiming to decipher the underlying brain dynamics using statistical signal processing and machine learning tools. One of the primary focus of his research is to develop novel computational tools to mitigate the challenges that the current neural data analysis paradigms face and make them available as open-source tools for the neuroscience community.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of work, Proloy enjoys cooking, exercising (running), and paleontology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
