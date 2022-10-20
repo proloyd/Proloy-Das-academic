@@ -56,7 +56,7 @@ experience:
     location: College Park, Maryland
     date_start: '2015-08-13'
     date_end: '2020-12-15'
-    description: Bayesian approcah for neural signal processing.
+    description: Bayesian modeling and estimation frameworks for neuro-imaging data analysis.
 
 design:
   columns: '2'
