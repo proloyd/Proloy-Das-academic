@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Fellow
     company: Mass General Hospital
-    company_url: 'massgeneral.org/'
+    company_url: https://massgeneral.org/
     company_logo: mgh-logo
     location: Boston
     date_start: '2020-12-14'
@@ -36,11 +36,24 @@ experience:
         * Modelling EEG time-series
         * Mentoring junior lab members
 
+  - title: Postdoctoral Assistant
+    company: University of Maryland, College Park
+    company_url: https://umd.edu/
+    company_logo: UMD
+    location: College Park, Maryland
+    date_start: '2020-09-21'
+    date_end: '2020-12-14'
+    description: |2-
+        Responsibilities include:
+        
+        * Modelling MEG time-series
+        * Mentoring junior lab members
+
   - title: Graduate student
     company: University of Maryland, College Park
-    company_url: 'https://umd.edu/'
+    company_url: https://umd.edu/
     company_logo: UMD
-    location: Maryland
+    location: College Park, Maryland
     date_start: '2015-08-13'
     date_end: '2020-12-15'
     description: Bayesian approcah for neural signal processing.
