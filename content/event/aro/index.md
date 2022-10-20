@@ -1,10 +1,10 @@
 ---
 title: Neuro-current Response Function
 
-event: Young Investigators Symposium at the 44th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO)
+event: Young Investigators Symposium 
 # event_url: https://example.org
 
-location: Virtual
+location: 44th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO) 
 address:
   # street: 450 Serra Mall
   city: Orlando
@@ -17,7 +17,7 @@ abstract: 'Introduced a unified approach for investigating MEG source analysis u
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-02-20'
+date: '2021-02-20T15:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
