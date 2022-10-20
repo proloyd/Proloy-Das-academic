@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    url: https://ece.umd.edu/news/story/new-robust-and-scalable-computational-methodology-developed-by-umd-researchers-helps-identify-directed
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://ece.umd.edu/news/story/proloy-das-receives-honorable-mention-in-charles-caramello-distinguished-dissertation-competition
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
@@ -46,8 +46,23 @@ item:
     organization: DataCamp
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
-    url: ''
-
+    url: https://ece.umd.edu/news/story/2020-deans-doctoral-student-research-awards
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Object-Oriented Programming in R'
+    url: https://ece.umd.edu/news/story/ece-names-20192020-distinguished-dissertation-fellows
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Object-Oriented Programming in R'
+    url: https://gradschool.umd.edu/funding/student-fellowships-awards/kulkarni-foundation-summer-research-fellowship
 design:
   columns: '2'
 ---

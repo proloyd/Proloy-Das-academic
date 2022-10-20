@@ -80,4 +80,4 @@ Proloy Das is a research fellow at the Department of Anesthesia, Critical Care a
 
 Outside of work, Proloy enjoys cooking, exercising (running), and paleontology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
