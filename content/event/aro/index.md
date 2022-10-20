@@ -1,10 +1,10 @@
 ---
 title: Neuro-current Response Function
 
-event: Young Investigators Symposium 
+event: Young Investigators Symposium at the 44th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO)
 # event_url: https://example.org
 
-location: 44th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO)
+location: Virtual
 address:
   # street: 450 Serra Mall
   city: Orlando
