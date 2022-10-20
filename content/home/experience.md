@@ -39,7 +39,7 @@ experience:
   - title: Graduate student
     company: University of Maryland, College Park
     company_url: 'https://umd.edu/'
-    company_logo: umd
+    company_logo: UMD
     location: Maryland
     date_start: '2015-08-13'
     date_end: '2020-12-15'
