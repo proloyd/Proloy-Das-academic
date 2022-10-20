@@ -15,11 +15,11 @@ address:
 summary: a unified approach to MEG source analysis under continuous stimuli paradigm.
 abstract: 'Introduced a unified approach for investigating MEG source analysis under continuous stimuli paradigm'
 
-# # Talk start and end times.
-# #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2030-06-01T13:00:00Z'
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2021-02-20'
 # date_end: '2030-06-01T15:00:00Z'
-# all_day: false
+all_day: false
 
 # # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -61,13 +61,7 @@ url_video: ''
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **PDF** button above to view the slides.
 {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Listening to continuous speech induces an ongoing auditory cortical response, time-locked to certain features of speech, such as the acoustic envelope. This has been previously characterized by the Temporal Response Function (TRF), at the MEG/EEG sensor level. To probe into the cortical origins of such neural responses, we introduce Neuro-Current Response Functions, sparsely distributed throughout the cortex, that predict the cortical currents giving rise to the observed MEG/EEG data in response to continuous speech. We present a fast estimation algorithm and demonstrate its utility through application to simulated and real MEG data under auditory experiments.
